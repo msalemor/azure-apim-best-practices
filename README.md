@@ -4,16 +4,13 @@ Best practices and recommendations for Azure API Management
 
 ## Understand the difference between external and internal mode
 
-- Internal mode: fronts a private IP and allows connectivity to internal and external APIs
-- External mode: fronts a public IP and allows connectivity to internal and external APIs
-
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-vnet?tabs=stv2
 
 ## Enabled end-to-end encription with Application Gateway WAF mode to inspect incoming requests
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway
 
-## Review your API Management selection, SLA and request limits
+## Review your API Management SKU selection, SLAs, units, and request limits
 
 > https://azure.microsoft.com/en-us/pricing/details/api-management/
 
