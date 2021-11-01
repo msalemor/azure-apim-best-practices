@@ -18,7 +18,7 @@ Best practices and recommendations for Azure API Management
 
 > https://azure.microsoft.com/en-us/pricing/details/api-management/
 
-## Use Policies to do things like throttle and validate jwt tokens
+## Use policies to do things like throttle and validate jwt tokens
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies
 
