@@ -2,6 +2,10 @@
 
 Best practices and recommendations for Azure API Management
 
+## Review the product overview documentation
+
+> https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+
 ## Understand the difference between external and internal mode
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-vnet?tabs=stv2
