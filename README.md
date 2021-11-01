@@ -2,7 +2,7 @@
 
 Best practices and recommendations for Azure API Management
 
-## Review the product overview documentation
+## Review the key concepts documentation
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 
