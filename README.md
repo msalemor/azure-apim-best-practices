@@ -2,6 +2,13 @@
 
 Best practices and recommendations for Azure API Management
 
+## Definitions
+
+- Gateway: the endpoint for incoming requests into APIM
+- Portal: the place where customer can signup to access the different product and APIs
+- Policy: XML code that can be applied to the request pipeline at different scopes (api, product, subscription) to modify, validate, extract data, etc.
+- Product: collection of APIs
+
 ## Review the key concepts documentation
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
