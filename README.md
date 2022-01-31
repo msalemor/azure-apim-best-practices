@@ -41,3 +41,6 @@ Best practices and recommendations for Azure API Management
 
 > https://github.com/Azure/azure-api-management-devops-resource-kit
 
+## Authetication with API Management (Video)
+
+> https://www.youtube.com/watch?v=jgPAWJMB4ME
