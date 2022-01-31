@@ -10,7 +10,7 @@ Best practices and recommendations for Azure API Management
 - Policies: XML code that can be applied to the request pipeline at different scopes (api, product, subscription) to modify, validate, extract data, etc.
 - Product: collection of APIs
 
-## Large Service
+## Service Concerns
 
 - Infrastruction: Internal vs External, end-to-end encryption vs SSL offloading, DNS for internal services, etc.
 - Administration: Manage users, products, apis, policies at different scopes
