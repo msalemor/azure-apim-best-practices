@@ -12,10 +12,11 @@ Best practices and recommendations for Azure API Management
 
 ## Large Service
 
-- Infra: Internal vs External, end-to-end encryption vs SSL offloading, DNS for internal services, etc.
+- Infrastruction: Internal vs External, end-to-end encryption vs SSL offloading, DNS for internal services, etc.
 - Administration: Manage users, products, apis, policies at different scopes
 - Devlopemnt of APIs: Swagger
 - DevOps: DevOps
+- Governance: RBAC, policies, locks, cost, and monitoring
 
 ## Review the key concepts documentation
 
