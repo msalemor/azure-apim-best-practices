@@ -46,6 +46,8 @@ Best practices and recommendations for Azure API Management
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights#:~:text=Enable%20Application%20Insights%20logging%20for%20your%20API%20,all%20failure%20...%20%209%20more%20rows%20
 
+> https://github.com/Azure/apiops
+
 ## Use the DevOPs tools to deploy your APIs
 
 > https://github.com/Azure/azure-api-management-devops-resource-kit
