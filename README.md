@@ -8,18 +8,6 @@ Azure API Management is a hybrid, multicloud management platform for APIs across
 
 https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 
-## API Management - Concerns
-
-API Management is a product requiring many concerns to be accounted for:
-
-- Networking: internal vs external deployment, end-to-end encryption, DNS, etc.
-- API Management: API definitions, Polcies, Subscritpions, Producs, etc.
-- Developer Portal: custominazation, access, etc.
-- Monetization: Rest calls to get API usage information
-- Development: API Development, Swagger, OpenAPI specs, etc.
-- DevOps/GitOps: ARM, Bicep, Terraform
-- Monitoring: ApplicationInsights and Log Analytics
-
 ## Definitions
 
 - Gateway: the endpoint for incoming requests into APIM
@@ -30,10 +18,15 @@ API Management is a product requiring many concerns to be accounted for:
 
 ## Service Concerns
 
-- Infrastructure: Internal vs External, end-to-end encryption vs SSL offloading, DNS for internal services, etc.
-- Administration: Manage users, products, apis, policies at different scopes
-- Devlopemnt of APIs: Swagger
-- DevOps: DevOps
+API Management is a product requiring many concerns to be accounted for:
+  
+- Networking: internal vs external deployment, end-to-end encryption, DNS, etc.
+- API Management: API definitions, Polcies, Subscritpions, Producs, etc.
+- Developer Portal: custominazation, access, etc.
+- Monetization: Rest calls to get API usage information
+- Development: API Development, Swagger, OpenAPI specs, etc.
+- DevOps/GitOps: ARM, Bicep, Terraform
+- Monitoring: ApplicationInsights and Log Analytics
 - Governance: RBAC, policies, locks, cost, and monitoring
 
 ## Review the key concepts documentation
