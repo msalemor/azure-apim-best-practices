@@ -12,12 +12,12 @@ https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concept
 
 API Management is a product where many concerns need to be accounted for including
 
-- Networking: internal vs external deployment, end-to-end encryption
-- API Management: (API definitions, Polcies, Subscritpions, Producs, etc.)
-- Developer Portal
+- Networking: internal vs external deployment, end-to-end encryption, DNS, etc.
+- API Management: API definitions, Polcies, Subscritpions, Producs, etc.
+- Developer Portal: custominazation, access, etc.
 - Monetization
-- Development: API Creation
-- DevOps
+- Development: API Development, Swagger, OpenAPI specs, etc.
+- DevOps/GitOps: ARM, Bicep, Terraform
 
 ## Definitions
 
