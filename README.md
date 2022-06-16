@@ -29,7 +29,7 @@ API Management is a product requiring many concerns to be accounted for:
 - Monitoring: ApplicationInsights and Log Analytics
 - Governance: RBAC, policies, locks, cost, and monitoring
 
-## Review the key concepts documentation
+## Key concepts
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 
@@ -37,25 +37,33 @@ API Management is a product requiring many concerns to be accounted for:
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-vnet?tabs=stv2
 
-## Enable end-to-end encription with Application Gateway WAF mode to inspect incoming requests
+## Security
+
+Enable end-to-end encription with Application Gateway WAF mode to inspect incoming requests.
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway
 
-## Review your API Management SKU selection, SLAs, units, and request limits
+## Service Limits (SKU selection, SLAs, units, and request limits):
 
 **Note:** API has request limits, selecting the right size and SKU is very important for a successful deploment.
   
 > https://azure.microsoft.com/en-us/pricing/details/api-management/
   
-## Use policies to do things like throttle and validate jwt tokens
+## Policies
+  
+Use policies to do things like throttle and validate jwt tokens.
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies
 
-## Add external caching to improve performance
+## Caching
+  
+Add external caching to improve performance.
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache
 
-## Monitor your API Management with Application Insights
+## Monnitoring
+  
+Monitor your API Management with Application Insights.
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights#:~:text=Enable%20Application%20Insights%20logging%20for%20your%20API%20,all%20failure%20...%20%209%20more%20rows%20
 
