@@ -34,7 +34,9 @@ API Management is a product requiring many concerns to be accounted for:
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 
-## Understand the differences between external and internal modes
+## Networking
+
+### External and internal modes
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-vnet?tabs=stv2
 
