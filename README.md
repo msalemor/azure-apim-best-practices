@@ -25,6 +25,7 @@ API Management is a product requiring many concerns to be accounted for:
 - Gateway: the endpoint for incoming requests into APIM
 - Portal: the place where customer can signup to access the different product and APIs
 - Policies: XML code that can be applied to the request pipeline at different scopes (api, product, subscription) to modify, validate, extract data, etc.
+- <Base>: withing the scope XML, this indicates scope inheritance. In other words, execute the scoppe policiy before
 - Product: collection of APIs
 
 ## Service Concerns
