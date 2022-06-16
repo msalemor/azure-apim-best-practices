@@ -18,6 +18,7 @@ API Management is a product where many concerns need to be accounted for includi
 - Monetization
 - Development: API Development, Swagger, OpenAPI specs, etc.
 - DevOps/GitOps: ARM, Bicep, Terraform
+- Monitoring: ApplicationInsights and Log Analytics
 
 ## Definitions
 
