@@ -10,10 +10,11 @@ https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concept
 
 ## Definitions
 
-- Gateway: the endpoint for incoming requests into APIM
+- Gateway: the APIM endpoint for incoming requests
+- Backend: the backend API
 - Portal: the place where customer can signup to access the different product and APIs
 - Policies: XML code that can be applied to the request pipeline at different scopes (api, product, subscription) to modify, validate, extract data, etc.
-- <Base>: withing the scope XML, this indicates scope inheritance. In other words, execute the scoppe policiy before
+- ```<Base>```: withing the scope XML, this indicates scope inheritance. In other words, execute the scoppe policiy before
 - Product: collection of APIs
 
 ## Service Concerns
