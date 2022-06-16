@@ -2,6 +2,22 @@
 
 Best practices and recommendations for Azure API Management
 
+## Overview
+
+Azure API Management is a hybrid, multicloud management platform for APIs across all environments. This article provides an overview of common scenarios and key components of API Management.
+
+https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+
+## API Management - Concerns
+
+API Management is a product where many concerns need to be accounted for including
+
+- Networking: internal vs external deployment, end-to-end encryption
+- API Management: (API definitions, Polcies, Subscritpions, Producs, etc.)
+- Developer Portal
+- Monetization
+- Development: API Creation
+- DevOps
 
 ## Definitions
 
