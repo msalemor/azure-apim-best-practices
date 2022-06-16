@@ -50,8 +50,10 @@ API Management is a product requiring many concerns to be accounted for:
 
 ## Review your API Management SKU selection, SLAs, units, and request limits
 
+**Note:** API has request limits, selecting the right size and SKU is very important for a successful deploment.
+  
 > https://azure.microsoft.com/en-us/pricing/details/api-management/
-
+  
 ## Use policies to do things like throttle and validate jwt tokens
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies
