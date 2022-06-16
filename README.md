@@ -10,7 +10,7 @@ https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concept
 
 ## API Management - Concerns
 
-API Management is a product where many concerns need to be accounted for including
+API Management is a product requiring many concerns to be accounted for:
 
 - Networking: internal vs external deployment, end-to-end encryption, DNS, etc.
 - API Management: API definitions, Polcies, Subscritpions, Producs, etc.
