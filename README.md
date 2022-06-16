@@ -38,7 +38,7 @@ API Management is a product requiring many concerns to be accounted for:
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-vnet?tabs=stv2
 
-## Security
+## End-to-end encryption
 
 Enable end-to-end encription with Application Gateway WAF mode to inspect incoming requests.
 
