@@ -64,7 +64,7 @@ Add external caching to improve performance.
 
 > https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache
 
-## Monnitoring
+## Monitoring
   
 Monitor your API Management with Application Insights.
 
